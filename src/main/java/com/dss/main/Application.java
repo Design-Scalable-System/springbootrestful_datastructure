@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.mustajab.main;
+package com.dss.main;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

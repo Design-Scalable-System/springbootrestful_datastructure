@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.mustajab.constants;
+package com.dss.constants;
 
 /**
  * @author DSS

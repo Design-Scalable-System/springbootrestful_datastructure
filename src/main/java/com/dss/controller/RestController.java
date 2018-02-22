@@ -1,12 +1,12 @@
 /**
  * 
  */
-package com.mustajab.controller;
+package com.dss.controller;
 
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 
-import com.mustajab.constants.Constant;
+import com.dss.constants.Constant;
 
 /**
  * @author DSS
