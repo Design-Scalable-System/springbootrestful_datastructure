@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Built-By: mmt5080
+Build-Jdk: 9.0.1
+Implementation-Title: com.dss.main
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: SpringbootRestFul
+Implementation-Vendor: Pivotal Software, Inc.
+Implementation-URL: http://projects.spring.io/spring-boot/com.dss.main
+ /
+Created-By: Maven Integration for Eclipse
+
